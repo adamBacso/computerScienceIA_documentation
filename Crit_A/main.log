@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.12) (preloaded format=pdflatex 2024.1.14)  4 DEC 2024 16:48
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.12) (preloaded format=pdflatex 2024.1.14)  4 DEC 2024 17:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -280,9 +280,10 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <14.4> on input line 15.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 15.
- [1
+ (../success_criteria.tex [1
 
-{C:/Users/adamg/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] (main.aux)
+{C:/Users/adamg/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]) [2] (main.a
+ux)
  ***********
 LaTeX2e <2023-11-01>
 L3 programming layer <2024-01-04>
@@ -291,20 +292,20 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 0F027F6B0ABE39C609A6DC2E689118EA;495.
  ) 
 Here is how much of TeX's memory you used:
- 8352 strings out of 474486
- 131699 string characters out of 5743755
+ 8372 strings out of 474486
+ 132077 string characters out of 5743755
  1933528 words of memory out of 5000000
- 30579 multiletter control sequences out of 15000+600000
+ 30584 multiletter control sequences out of 15000+600000
  560494 words of font info for 44 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,5n,79p,318b,433s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,5n,79p,318b,520s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/adamg/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/
 cmbx12.pfb><C:/Users/adamg/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
 fonts/cm/cmr12.pfb><C:/Users/adamg/AppData/Local/Programs/MiKTeX/fonts/type1/pu
 blic/amsfonts/cm/cmr17.pfb>
-Output written on main.pdf (1 page, 45648 bytes).
+Output written on main.pdf (2 pages, 49393 bytes).
 PDF statistics:
- 40 PDF objects out of 1000 (max. 8388607)
- 5 named destinations out of 1000 (max. 500000)
+ 56 PDF objects out of 1000 (max. 8388607)
+ 15 named destinations out of 1000 (max. 500000)
  25 words of extra memory for PDF output out of 10000 (max. 10000000)
 

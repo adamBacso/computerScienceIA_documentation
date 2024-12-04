@@ -1,0 +1,4 @@
+PWD C:\Users\adamg\Documents\compsci\ia_documentation
+INPUT C:\Users\adamg\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
+INPUT C:\Users\adamg\Documents\compsci\ia_documentation\success_criteria.tex
+OUTPUT success_criteria.log

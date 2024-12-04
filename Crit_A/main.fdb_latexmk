@@ -1,5 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1733327329.60296 "C:/Users/adamg/Documents/compsci/ia_documentation/Crit_A/main.tex" "main.pdf" "main" 1733327331.02915 0
+["pdflatex"] 1733329514.36069 "C:/Users/adamg/Documents/compsci/ia_documentation/Crit_A/main.tex" "main.pdf" "main" 1733329515.1367 0
+  "../success_criteria.tex" 1733329512 564 3b5d1a22ec63f352ae28db8d533e8238 ""
   "C:/Users/adamg/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1731962089 84588 b0b213800228c7515f6864a12c238dba ""
   "C:/Users/adamg/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1705233789 24224934 d725c6976fe8830e1ebdd36d8daffaac ""
   "C:/Users/adamg/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmbx10.tfm" 1136765053 1328 c834bbb027764024c09d3d2bf908b5f0 ""
@@ -50,10 +51,10 @@
   "C:/Users/adamg/AppData/Local/Programs/MiKTeX/tex/latex/setspace/setspace.sty" 1670403145 22490 8cac309b79a4c53a4ffce4b1b07aead0 ""
   "C:/Users/adamg/AppData/Local/Programs/MiKTeX/tex/latex/titlesec/titlesec.sty" 1699094857 48766 0b93839be28e9744a24c45075c75b2e2 ""
   "C:/Users/adamg/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
-  "C:/Users/adamg/Documents/compsci/ia_documentation/Crit_A/main.tex" 1733327326 2172 0d2959c85665f0ef45109014d18df368 ""
-  "main.aux" 1733327330 522 540fddd5f121262a4420b52cb9179a5d "pdflatex"
-  "main.out" 1733327330 495 0f027f6b0abe39c609a6dc2e689118ea "pdflatex"
-  "main.tex" 1733327326 2172 0d2959c85665f0ef45109014d18df368 ""
+  "C:/Users/adamg/Documents/compsci/ia_documentation/Crit_A/main.tex" 1733329513 2221 faac62b298e95b72ef2b1a4cb86897ef ""
+  "main.aux" 1733329514 522 c62dc5c21762e54ba0b5ac241803d6a3 "pdflatex"
+  "main.out" 1733329514 495 0f027f6b0abe39c609a6dc2e689118ea "pdflatex"
+  "main.tex" 1733329513 2221 faac62b298e95b72ef2b1a4cb86897ef ""
   (generated)
   "main.aux"
   "main.log"
