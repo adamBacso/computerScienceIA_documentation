@@ -1,0 +1,46 @@
+\documentclass[12pt]{article}
+\usepackage[a4paper, total={170mm, 257mm}, top= 20mm]{geometry}
+\usepackage{hyperref}
+\usepackage{setspace, titlesec}
+
+\titleformat{\section}[display]{\normalfont\small\bfseries}{}{0pt}{\Large}
+\titlespacing*{\section}{0pt}{-15pt}{10pt}
+
+\doublespacing\begin{document}
+\title{Criterion A: Planning\vspace{-3em}}
+\date{}
+\author{}
+
+\maketitle
+
+\section{Description of the scenario}
+
+My client, Mr.\ xx, has approached me with a game idea of his. He is fond of
+the tile sliding game, where the aim is to complete a picture or sequence by sliding a set
+of tiles in a grid, but wished that he would be able to use his own pictures,
+such as photos of his family or vacations. He was looking for a ``laid back
+experience, something that is accessible to [him]''. He added that once he ``gets
+stuck'', he would like to have an option to see hints, or have the computer
+finish solving the puzzle. However, he also emphasized that he is quite
+competitive, and would want a high score system and if possible, a way to
+compete against others.
+
+\section{Rationale for the solution}
+
+The received description of the program required defined the approach needed for
+this specific project. I chose the \href{https://godotengine.org/}{Godot game
+engine} to implement the game in, due to my previous, although severly limited,
+experience with it. Its scripting language, GDscript, closely resembles Python
+and offers a rich object oriented approach to programming in a coherent package.
+Additionally, exporting the final product as an executable for most platforms
+(Windows, Mac, Linux, Android, iOS) is a streamlined process. Furthermore, the
+engine was known historically for its 2D graphics capabilities, something that
+would be required for the visual representation.
+
+The final product would be restricted to the local device, due to the client
+not being able to operate a server for it and also due to security concerns.
+However, it will be made possible to utilize third-party cloud providers to
+synchronize certain aspects between devices if Mr.\ xx chooses to.
+
+\section{Success criteria}
+\end{document}
